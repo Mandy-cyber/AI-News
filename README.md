@@ -1,2 +1,2 @@
 # AI-News
-Scrape latest AI news in a range of different categories
+Will fix this file up later lol
